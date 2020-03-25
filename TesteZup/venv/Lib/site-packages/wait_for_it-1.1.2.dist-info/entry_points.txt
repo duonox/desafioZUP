@@ -1,0 +1,3 @@
+[console_scripts]
+wait-for-it = wait_for_it.wait_for_it:cli
+
